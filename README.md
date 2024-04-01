@@ -1,1 +1,1 @@
-Visit the live preview https://rasulxaydarov.github.io/foods-movies-places/
+Visit the live preview at https://rasulxaydarov.github.io/foods-movies-places/
