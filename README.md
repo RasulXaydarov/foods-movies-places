@@ -7,4 +7,4 @@ This project contain my favorite music which others may do not like exact this m
 
 Visit the live preview https://rasulxaydarov.github.io/foods-movies-places/
 
-<h2>The user should enter pages in the navigation.</h2>
+<h2>The user should enter pages in the navigation in order to visit the web pages.</h2>
