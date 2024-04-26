@@ -6,3 +6,5 @@ I built this project for assignment. We can know how we code alone when we write
 This project contain my favorite music which others may do not like exact this music. 
 
 Visit the live preview https://rasulxaydarov.github.io/foods-movies-places/
+
+<h2>The user should enter pages in the navigation.</h2>
